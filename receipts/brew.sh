@@ -41,8 +41,8 @@ echo "✓ Homebrew tap install done"
 # install brew formulae #
 #########################
 echo "Installing brew formulae..."
+brew install autojump
 brew install awscli
-brew install cheat
 brew install curl
 brew install git
 brew install git-extras
@@ -50,9 +50,9 @@ brew install git-open
 brew install hub
 brew install mackup
 brew install mas
-brew install node
 brew install python
 brew install rename
+brew install Schniz/tap/fnm
 brew install speedtest_cli
 brew install tldr
 brew install tree
@@ -69,6 +69,7 @@ brew cask install 1password
 brew cask install adapter
 brew cask install alfred
 brew cask install authy
+brew cask install calibre
 brew cask install charles
 brew cask install cheatsheet
 brew cask install clipy
@@ -89,11 +90,13 @@ brew cask install iterm2
 brew cask install kap
 brew cask install mplayerx
 brew cask install ngrok
+brew cask install nosqlbooster-for-mongodb
 brew cask install paintbrush
 brew cask install postman
 brew cask install qlcolorcode qlstephen qlmarkdown quicklook-json qlimagesize webpquicklook suspicious-package quicklookase qlvideo
 brew cask install react-native-debugger
 brew cask install reactotron
+brew cask install robo-3t
 brew cask install sourcetree
 brew cask install station
 brew cask install stretchly

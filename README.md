@@ -18,9 +18,10 @@ Run all
 
 ## CLI tools
 
+- [autojump](https://github.com/wting/autojump)
 - [aws-cli](https://github.com/aws/aws-cli)
-- [cheat](https://github.com/chrisallenlane/cheat)
 - [Curl](https://github.com/curl/curl)
+- [fnm](https://github.com/Schniz/fnm)
 - [Git Extras](https://github.com/tj/git-extras)
 - [git-open](https://github.com/paulirish/git-open)
 - [hub](https://github.com/github/hub)
@@ -29,6 +30,7 @@ Run all
 - [Oh My Zsh](https://ohmyz.sh/)
 - [rename](http://plasmasturm.org/code/rename/)
 - [speedtest-cli](https://github.com/sivel/speedtest-cli)
+- [tldr](https://github.com/tldr-pages/tldr)
 
 ## General tools
 
@@ -37,6 +39,7 @@ Run all
 - [Alfred](https://www.alfredapp.com/)
 - [Authy](https://authy.com/)
 - [Blackmagic Disk Speed Test](https://itunes.apple.com/app/blackmagic-disk-speed-test/id425264550)
+- [Calibre](https://calibre-ebook.com/)
 - [Charles](https://www.charlesproxy.com/)
 - [CheatSheet](https://mediaatelier.com/CheatSheet/)
 - [Clipy](https://clipy-app.com/)
@@ -57,12 +60,14 @@ Run all
 - [Magnet](http://magnet.crowdcafe.com/)
 - [MPlayerX](http://mplayerx.org/)
 - [ngrok](https://ngrok.com/)
+- [NoSQLBooster](https://nosqlbooster.com/)
 - [Paintbrush](https://paintbrush.sourceforge.io/)
 - [Postman](https://www.getpostman.com/)
 - [Quick Look plugins](https://github.com/sindresorhus/quick-look-plugins)
 - [React Native Debugger](https://github.com/jhen0409/react-native-debugger)
 - [Reactotron](https://github.com/infinitered/reactotron)
 - [Reeder](http://reederapp.com/mac/)
+- [Robo 3T](https://robomongo.org/)
 - [Sourcetree](https://www.sourcetreeapp.com/)
 - [Station](https://getstation.com/)
 - [stretchly](https://github.com/hovancik/stretchly)
